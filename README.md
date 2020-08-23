@@ -1,5 +1,3 @@
-# dayanesi.github.io
-
 # Dayane de Melo Rodovalho
 Analista de Negócios TI
 
